@@ -11,5 +11,3 @@ I am a current retail manager with a new found love and passion for webdesign. I
 
 - 💬 Ask me about: My love for ![Ohio_State_Football](https://img.shields.io/badge/Ohio_State_Football-red)
 - 📫 How to reach me: ![linkedIn](https://img.shields.io/badge/linkedIn-blue)
-- ⚡ Fun fact: ...
-
