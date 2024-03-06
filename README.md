@@ -1,6 +1,6 @@
 ### Welcome to My Page!
 
-I am a current retail manager with a new found love and passion for webdesign. Ive spent years working with computers and getting to know the in's and out's how computers work now learning how to develop applications from the ground up. I have completed a fast paced Bootcamp through ![EdX Bootcamps](https://img.shields.io/badge/EdX_BootCamps-black
+I am a current Job Coordinator for a Fire Restoration Company with a new found love and passion for webdesign. Ive spent years working with computers and getting to know the in's and out's how computers work now learning how to develop applications from the ground up. I have completed a fast paced Bootcamp through ![EdX Bootcamps](https://img.shields.io/badge/EdX_BootCamps-black
 ) and ![Case_Western_Reserve_University](https://img.shields.io/badge/Case_Western_Reserve-blue) and am now a certified Full-Stack Web Developer.
 
 ## Languages
